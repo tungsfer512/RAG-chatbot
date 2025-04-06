@@ -1,0 +1,25 @@
+[
+    {
+        "rag": {
+            "faithfulness": 0.6517,
+            "answer_relevancy": 0.6359,
+            "context_relevancy": 0.0006,
+            "context_precision": 0.6333,
+            "context_recall": 0.5500
+        },
+        "rag_fusion": {
+            "faithfulness": 0.9316,
+            "answer_relevancy": 0.7286,
+            "context_relevancy": 0.0005,
+            "context_precision": 0.3294,
+            "context_recall": 0.7000
+        },
+        "rank_rag": {
+            "faithfulness": 0.3838,
+            "answer_relevancy": 0.3611,
+            "context_relevancy": 0.0033,
+            "context_precision": 0.2500,
+            "context_recall": 0.3312
+        }
+    }
+]

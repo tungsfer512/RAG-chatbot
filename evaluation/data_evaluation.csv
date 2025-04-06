@@ -1,0 +1,23 @@
+document_index,question,answer
+3,What kind of model is the bling-phi-3 model,"The bling-phi-3 model is the newest and most accurate BLING/DRAGON model. BLING models are small CPU-based RAG-optimized, instruct-following 1B-3B parameter models. DRAGON models are production-grade RAG-optimized 6-7B parameter models - ""Delivering RAG on ..."" the leading foundation base models."
+19,What are the advantages and disadvantages of the BM25 algorithm?,"The advantage of BM25 is that it is efficient. The disadvantage of the BM25 algorithm is that it focuses on term frequency and presence for document algorithm, so it often overlooks the semantic information of queries."
+7,Who was Duke Stelmane?,"Duke Stelmane was a major figure of the Knights of the Shield, a lawful and neutral evil conglomerate of politicians and merchants manipulating events behind the scenes, acting as the Emperor's envoy while it secretly kept her enthralled. Duke Belynne Stelmane dies recently."
+9,What items do Rudolf's family take from the Jews and who takes them?,"Rudolf's wife, Hedwig, often receives luxury and expensive items taken from the Jews. On one occasion, she is seen receiving a fancy fur coat with lipstick lying inside one of the pockets. The Rudolf's children are also seen collecting and playing with gold teeth taken from the remains of the dead Jews."
+6,What are the rules for developing general purpose AI models?,"General purpose AI models that were trained using a total computing power of more than 10^25 FLOPs are considered to carry systemic risks. 12 months after the AI Act enters into force, the obligations for general purpose AI governance become applicable. Providers of general purpose AI models, which are trained on large data amounts and therefore prone to high energy consumption, are required to disclose energy consumption. Providers of free and open-source models are exempted from most of obligations, but this exemption does not cover obligations for providers of general purpose AI models with systemic risks."
+16,What can moss be used for?,Harvesting moss gives 1 foraging exp per moss and speed gro requires five moss.
+11,In what contexts is BERT mentioned?,"It is mentioned that for BERT large during training, the input and weight matrix of any matrix multiplication fit neatly into the L2 cache of Ada (but not other Us). The author also mentions that they benchmarked the time for 500 mini-batches for BERT Large during inference (excluding the softmax layer) on the 4x RTX 2080 Ti system. They chose BERT Large inference since, from their experience, this is the deep learning model that stresses the GPU the most."
+1,What enemies are encountered in the second encounter?,26 kobolds and 1 kobold inventor are encountered in the second encounter.
+15,What colour is Nan-E?,No answer
+12,How do sets in Python compare to sets in Gleam?,No answer
+2,Which masked language model was chosen for the AI?,No answer
+1,What did the goblins say?,No answer
+9,What relgion are the members of the Hoss family?,No answer
+5,What are the key topics of this article?,"The key topics of this article are: ""why prioritizing impact matters not just for managers, but also ICs""; ""why focusing on impact is hard""; ""how to maximize your impact""; and ""how to overcome common challenges in driving real impact""."
+2,What data did was used to test the prototype?,Grace Hopper's Wikipedia page and Alan Turing's Wikipedia page were used to test the prototype.
+16,When did mushroom trees stop dropping wood?,Mushrrom trees stopped dropping wood in patch 1.4.0.
+0,What do keybullet kin drop?,Keybullet kin drop a key upon death.
+0,What kind of gun does the bandana bullet kin use?,The bandana bullet kin wields a machine pistol.
+18,Who wrote 'Divine Rivals'?,Rebecca Ross wrote 'Divine Rivals'.
+1,What happens on day 2?,"After a few miles of winding tunnel, you emerge in a smaller grotto of stalactites and stalagmites dripping with condensation. Unsure if the same underground river, or another water source, is nearby, you can see quite a bit of ground water does funnel down into this area.
+
+You encounter 2 ropers seeking the next burrowed entrance left by the Kryn."
