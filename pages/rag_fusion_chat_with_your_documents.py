@@ -23,7 +23,6 @@ Output (4 queries):"""
 prompt_rag_fusion = ChatPromptTemplate.from_template(template)
 
 from langchain_core.output_parsers import StrOutputParser
-from langchain_openai import ChatOpenAI
 
 llm = utils.configure_llm()
 
